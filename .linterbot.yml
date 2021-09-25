@@ -1,0 +1,3 @@
+github_access_token: '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'
+linter_report_file: 'PATH/TO/SWIFTLINT/JSON/OUTPUT/FILE'
+project_base_path: 'BASE/PROJECT/PATH'

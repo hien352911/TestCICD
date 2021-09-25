@@ -1,0 +1,17 @@
+//
+//  Staging.xcconfig
+//  TestCICD
+//
+//  Created by Hien IT. Bui Duy on 24/09/2021.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+FX_APP_NAME = Project (Staging)
+
+FX_APP_VERSION = 0.2
+
+FX_APP_BUNDLE_ID = vn.mtq.TestCICD.Staging
+
+BACKEND_URL = http:\/\/api.intensifystudio.com/staging
